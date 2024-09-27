@@ -31,8 +31,6 @@ int main() {
   wcout << "HebrewChar: " << hebrewChar << endl;
   cout << "HaveGF: " << HaveGF << endl;
   cout << "HaveGF: " << (HaveGF ? "true" : "false") << endl;
-
-  printVoidFunc();
   // wcout << "char16_t: " << ch16 << endl;
   // wcout << "char32_t: " << ch32 << endl;
   return 0;
