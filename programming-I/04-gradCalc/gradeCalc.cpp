@@ -64,19 +64,19 @@ int main() {
   else if (avg >= 90 && avg <= 93)
     cout << "\nyour grade is a-" << endl;
   else if (avg >= 87 && avg <= 89)
-    cout << "\nYour Grade is B+";
+    cout << "\nYour Grade is B+" << endl;
   else if (avg >= 84 && avg <= 86)
-    cout << "\nyour grade is b";
+    cout << "\nyour grade is b" << endl;
   else if (avg >= 80 && avg <= 83)
-    cout << "\nyour grade is b-";
+    cout << "\nyour grade is b-" << endl;
   else if (avg >= 77 && avg <= 79)
-    cout << "\nyour grade is c+";
+    cout << "\nyour grade is c+" << endl;
   else if (avg >= 74 && avg <= 76)
-    cout << "\nYour Grade is C";
+    cout << "\nYour Grade is C" << endl;
   else if (avg >= 70 && avg <= 73)
-    cout << "\nYour Grade is C-";
+    cout << "\nYour Grade is C-" << endl;
   else if (avg >= 60 && avg <= 69)
-    cout << "\nYour Grade is D";
+    cout << "\nYour Grade is D" << endl;
   else
     cout << "\nYour Grade is F" << endl;
   return 0;
