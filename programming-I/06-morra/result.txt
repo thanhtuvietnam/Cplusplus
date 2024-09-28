@@ -1,6 +1,6 @@
 Fingers	Total
-1		4
-4		0
+3		0
+3		8
 
-Correct total is: 5
+Correct total is: 6
 NO ONE WINS
